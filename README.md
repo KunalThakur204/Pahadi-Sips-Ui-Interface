@@ -115,7 +115,7 @@ Every transition is intentionally slow, soothing — pahadi pace.
 🔗 7. Access Prototype
 
 Figma Link:
-👉 Yahan tumhara actual link aayega
+(https://www.figma.com/design/daS0OlE1rAhfoDG2CKSe52/Pahadi-Sips?node-id=11-2&t=bHaqdvgFeFk6SGdf-1)
 
 Open it, click on “Present”,
 and the screen itself will start telling you a story.
